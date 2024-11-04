@@ -44,3 +44,9 @@ int main()
     inFile.close(); // file close
     return 0;
 }
+
+/*
+Frenchfriesman - Master - Good Job!
+Cheesebugerman - Advanced - Good Job!
+Sodaman - Intermediate
+*/
