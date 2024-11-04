@@ -1,0 +1,3 @@
+Frenchfriesman 2100 1800 2000
+Cheeseburgerman 1500 1600 1700
+Sodaman 1000 1200 900
